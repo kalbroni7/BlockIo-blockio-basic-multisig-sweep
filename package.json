@@ -18,7 +18,7 @@
   "homepage": "https://github.com/BlockIo/blockio-basic-multisig-sweep#readme",
   "dependencies": {
     "bitcoinjs-lib": "^6.0.0",
-    "ecpair": "^1.0.1",
+    "ecpair": "^2.0.0",
     "bip32": "^3.0.1",
     "tiny-secp256k1": "^2.1.1",
     "chai": "^4.3.4",
